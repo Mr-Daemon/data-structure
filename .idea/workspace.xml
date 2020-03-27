@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="data_structure" targetName="simulate" />
+      <config projectName="data_structure" targetName="main" />
+      <config projectName="data_structure" targetName="test_file" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0200f3f5-6126-4cc3-9909-d3651299d995" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/data_structure.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/cyb12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstract_structure/AdjacencyWDigraph.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstract_structure/ArrayList.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstract_structure/Graph.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstract_structure/List.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstract_structure/huffman_encode.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstract_structure/huffman_encode.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstract_structure/huffman_tree.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstract_structure/test_file.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factory_simulate/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factory_simulate/Factory.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factory_simulate/Job.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factory_simulate/LinkedList.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factory_simulate/Machine.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factory_simulate/Queue.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factory_simulate/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old_version/arithmetic.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old_version/binary_tree.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old_version/circular_queue.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old_version/cstr_to_int.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old_version/expression.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old_version/expression.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old_version/key_word_table.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old_version/linear_list.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old_version/match_pattern.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old_version/matrix.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old_version/matrix_orthogonal.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old_version/maze.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old_version/playground.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old_version/polynomial.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old_version/queue.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old_version/queue_in_bank.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old_version/signal_booster.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old_version/signal_booster.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old_version/stack.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort_algo/merge_sort.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_use/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="ChenYibo" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1Xn5vh7ulAGzX7Hvcwyo6hH3R8Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\playground\data_structure\test_use" />
+      <recent name="C:\playground\data_structure\old_version" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\playground\data_structure\sort_algo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.simulate">
+    <configuration name="main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="data_structure" TARGET_NAME="main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="data_structure" RUN_TARGET_NAME="main">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="simulate" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="data_structure" TARGET_NAME="simulate" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="data_structure" RUN_TARGET_NAME="simulate">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test_file" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="data_structure" TARGET_NAME="test_file" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="data_structure" RUN_TARGET_NAME="test_file">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.main" />
+      <item itemvalue="CMake Application.test_file" />
+      <item itemvalue="CMake Application.simulate" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0200f3f5-6126-4cc3-9909-d3651299d995" name="Default Changelist" comment="" />
+      <created>1581669249705</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581669249705</updated>
+      <workItem from="1581669251555" duration="9857000" />
+      <workItem from="1581733462103" duration="24258000" />
+      <workItem from="1581821470274" duration="1074000" />
+      <workItem from="1581856835368" duration="654000" />
+      <workItem from="1582345253963" duration="1058000" />
+      <workItem from="1582513895976" duration="595000" />
+      <workItem from="1582961406979" duration="631000" />
+      <workItem from="1583145041885" duration="3371000" />
+      <workItem from="1583222055130" duration="70000" />
+      <workItem from="1583314005648" duration="4709000" />
+      <workItem from="1583330369748" duration="621000" />
+      <workItem from="1583926962480" duration="1596000" />
+      <workItem from="1583929156958" duration="1801000" />
+      <workItem from="1584079040405" duration="3635000" />
+      <workItem from="1584264118868" duration="383000" />
+      <workItem from="1584272656269" duration="1811000" />
+      <workItem from="1584789186784" duration="69000" />
+      <workItem from="1584789372294" duration="634000" />
+      <workItem from="1584800674046" duration="2448000" />
+      <workItem from="1584837770615" duration="3057000" />
+      <workItem from="1584883359483" duration="8017000" />
+      <workItem from="1584932553294" duration="7791000" />
+      <workItem from="1585315232650" duration="766000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="202" y="45" key="#Notifications" timestamp="1585315759737">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state x="202" y="45" key="#Notifications/0.0.1216.771@0.0.1216.771" timestamp="1585315759737" />
+    <state x="340" y="133" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584274932210">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state x="340" y="133" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1216.771@0.0.1216.771" timestamp="1584274932210" />
+    <state x="184" y="0" key="CommitChangelistDialog2" timestamp="1585315990821">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state x="184" y="0" key="CommitChangelistDialog2/0.0.1216.771@0.0.1216.771" timestamp="1585315990821" />
+    <state x="390" y="128" key="FileChooserDialogImpl" timestamp="1585315563436">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state x="390" y="128" key="FileChooserDialogImpl/0.0.1216.771@0.0.1216.771" timestamp="1585315563436" />
+    <state width="1173" height="288" key="GridCell.Tab.0.bottom" timestamp="1584948763929">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state width="1173" height="288" key="GridCell.Tab.0.bottom/0.0.1216.771@0.0.1216.771" timestamp="1584948763929" />
+    <state width="1173" height="288" key="GridCell.Tab.0.center" timestamp="1584948763929">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state width="1173" height="288" key="GridCell.Tab.0.center/0.0.1216.771@0.0.1216.771" timestamp="1584948763929" />
+    <state width="1173" height="288" key="GridCell.Tab.0.left" timestamp="1584948763929">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state width="1173" height="288" key="GridCell.Tab.0.left/0.0.1216.771@0.0.1216.771" timestamp="1584948763929" />
+    <state width="1173" height="288" key="GridCell.Tab.0.right" timestamp="1584948763929">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state width="1173" height="288" key="GridCell.Tab.0.right/0.0.1216.771@0.0.1216.771" timestamp="1584948763929" />
+    <state width="1173" height="240" key="GridCell.Tab.1.bottom" timestamp="1584947613550">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state width="1173" height="240" key="GridCell.Tab.1.bottom/0.0.1216.771@0.0.1216.771" timestamp="1584947613550" />
+    <state width="1173" height="240" key="GridCell.Tab.1.center" timestamp="1584947613550">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state width="1173" height="240" key="GridCell.Tab.1.center/0.0.1216.771@0.0.1216.771" timestamp="1584947613550" />
+    <state width="1173" height="240" key="GridCell.Tab.1.left" timestamp="1584947613550">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state width="1173" height="240" key="GridCell.Tab.1.left/0.0.1216.771@0.0.1216.771" timestamp="1584947613550" />
+    <state width="1173" height="240" key="GridCell.Tab.1.right" timestamp="1584947613550">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state width="1173" height="240" key="GridCell.Tab.1.right/0.0.1216.771@0.0.1216.771" timestamp="1584947613550" />
+    <state x="118" y="29" key="SettingsEditor" timestamp="1585315256579">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state x="118" y="29" key="SettingsEditor/0.0.1216.771@0.0.1216.771" timestamp="1585315256579" />
+    <state x="307" y="210" key="com.intellij.ide.util.TipDialog" timestamp="1585315233012">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state x="307" y="210" key="com.intellij.ide.util.TipDialog/0.0.1216.771@0.0.1216.771" timestamp="1585315233012" />
+  </component>
+</project>
