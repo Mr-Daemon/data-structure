@@ -1,6 +1,7 @@
-#include <c++/cstdlib>
-#include <c++/cstdio>
-#include <c++/iostream>
+#include <cstdlib>
+#include <cstdio>
+#include <iostream>
+#include <cstring>
 
 //
 // Created by cyb12 on 2020-01-26.

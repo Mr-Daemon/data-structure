@@ -2,9 +2,20 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
+      <config projectName="data_structure" targetName="optimal_bst" />
+      <config projectName="data_structure" targetName="hblt" />
+      <config projectName="data_structure" targetName="matrix" />
+      <config projectName="data_structure" targetName="swap_sort" />
+      <config projectName="data_structure" targetName="insert_sort" />
+      <config projectName="data_structure" targetName="max_heap" />
+      <config projectName="data_structure" targetName="select_sort" />
+      <config projectName="data_structure" targetName="avl_tree" />
       <config projectName="data_structure" targetName="simulate" />
+      <config projectName="data_structure" targetName="binary_search" />
+      <config projectName="data_structure" targetName="merge_sort" />
       <config projectName="data_structure" targetName="main" />
       <config projectName="data_structure" targetName="test_file" />
+      <config projectName="data_structure" targetName="dynamic_search" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
@@ -14,52 +25,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0200f3f5-6126-4cc3-9909-d3651299d995" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/data_structure.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/cyb12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract_structure/AdjacencyWDigraph.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract_structure/ArrayList.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract_structure/Graph.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract_structure/List.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract_structure/huffman_encode.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract_structure/huffman_encode.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract_structure/huffman_tree.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract_structure/test_file.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factory_simulate/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factory_simulate/Factory.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factory_simulate/Job.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factory_simulate/LinkedList.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factory_simulate/Machine.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factory_simulate/Queue.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factory_simulate/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old_version/arithmetic.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old_version/binary_tree.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old_version/circular_queue.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old_version/cstr_to_int.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old_version/expression.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old_version/expression.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old_version/key_word_table.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old_version/linear_list.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old_version/match_pattern.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old_version/matrix.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old_version/matrix_orthogonal.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old_version/maze.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old_version/playground.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old_version/polynomial.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old_version/queue.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old_version/queue_in_bank.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old_version/signal_booster.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old_version/signal_booster.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old_version/stack.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort_algo/merge_sort.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_use/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search/avl_tree.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search/binary_search.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search/dynamic_search.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search/hblt.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search/max_heap.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search/optimal_bst.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort/insert_sort.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort/random_array.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort/select_sort.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort/swap_sort.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old_version/matrix.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/old_version/matrix.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sort_algo/merge_sort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/sort/merge_sort.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_use/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/test_use/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +59,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CMakeLists.txt" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -88,7 +74,9 @@
   </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
   <component name="ProjectId" id="1Xn5vh7ulAGzX7Hvcwyo6hH3R8Q" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -103,25 +91,87 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="C:/Desktop/SampleProject" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\playground\data_structure\sort" />
+      <recent name="C:\playground\data_structure\sort_algo" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\playground\data_structure\test_use" />
       <recent name="C:\playground\data_structure\old_version" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\playground\data_structure\sort_algo" />
-    </key>
   </component>
-  <component name="RunManager" selected="CMake Application.simulate">
+  <component name="RunManager" selected="CMake Application.merge_sort">
+    <configuration name="avl_tree" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="data_structure" TARGET_NAME="avl_tree" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="data_structure" RUN_TARGET_NAME="avl_tree">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="binary_search" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="data_structure" TARGET_NAME="binary_search" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="data_structure" RUN_TARGET_NAME="binary_search">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dynamic_search" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="data_structure" TARGET_NAME="dynamic_search" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="data_structure" RUN_TARGET_NAME="dynamic_search">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hblt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="data_structure" TARGET_NAME="hblt" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="data_structure" RUN_TARGET_NAME="hblt">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="insert_sort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="data_structure" TARGET_NAME="insert_sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="data_structure" RUN_TARGET_NAME="insert_sort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="data_structure" TARGET_NAME="main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="data_structure" RUN_TARGET_NAME="main">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="matrix" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="data_structure" TARGET_NAME="matrix" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="data_structure" RUN_TARGET_NAME="matrix">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="max_heap" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="data_structure" TARGET_NAME="max_heap" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="data_structure" RUN_TARGET_NAME="max_heap">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="merge_sort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="data_structure" TARGET_NAME="merge_sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="data_structure" RUN_TARGET_NAME="merge_sort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="optimal_bst" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="data_structure" TARGET_NAME="optimal_bst" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="data_structure" RUN_TARGET_NAME="optimal_bst">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="select_sort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="data_structure" TARGET_NAME="select_sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="data_structure" RUN_TARGET_NAME="select_sort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="simulate" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="data_structure" TARGET_NAME="simulate" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="data_structure" RUN_TARGET_NAME="simulate">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="swap_sort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="data_structure" TARGET_NAME="swap_sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="data_structure" RUN_TARGET_NAME="swap_sort">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -132,9 +182,20 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="CMake Application.avl_tree" />
+      <item itemvalue="CMake Application.binary_search" />
+      <item itemvalue="CMake Application.dynamic_search" />
+      <item itemvalue="CMake Application.hblt" />
+      <item itemvalue="CMake Application.insert_sort" />
       <item itemvalue="CMake Application.main" />
-      <item itemvalue="CMake Application.test_file" />
+      <item itemvalue="CMake Application.matrix" />
+      <item itemvalue="CMake Application.max_heap" />
+      <item itemvalue="CMake Application.merge_sort" />
+      <item itemvalue="CMake Application.select_sort" />
+      <item itemvalue="CMake Application.swap_sort" />
+      <item itemvalue="CMake Application.optimal_bst" />
       <item itemvalue="CMake Application.simulate" />
+      <item itemvalue="CMake Application.test_file" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -169,8 +230,29 @@
       <workItem from="1584837770615" duration="3057000" />
       <workItem from="1584883359483" duration="8017000" />
       <workItem from="1584932553294" duration="7791000" />
-      <workItem from="1585315232650" duration="766000" />
+      <workItem from="1585315232650" duration="2583000" />
+      <workItem from="1585384459134" duration="22831000" />
+      <workItem from="1585533033994" duration="7709000" />
+      <workItem from="1585708398680" duration="5016000" />
+      <workItem from="1585729348090" duration="42000" />
+      <workItem from="1585752232183" duration="17000" />
+      <workItem from="1585799090489" duration="2439000" />
+      <workItem from="1585992925620" duration="1134000" />
+      <workItem from="1586001194622" duration="1191000" />
+      <workItem from="1586073076901" duration="9318000" />
+      <workItem from="1586132022999" duration="92000" />
+      <workItem from="1586180409483" duration="599000" />
+      <workItem from="1586308693346" duration="9117000" />
+      <workItem from="1586479445069" duration="6506000" />
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1585316047319</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585316047319</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,53 +278,94 @@
       <screen x="0" y="0" width="1216" height="771" />
     </state>
     <state x="340" y="133" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1216.771@0.0.1216.771" timestamp="1584274932210" />
-    <state x="184" y="0" key="CommitChangelistDialog2" timestamp="1585315990821">
+    <state x="665" y="137" key="#xdebugger.evaluate" timestamp="1586333836591">
       <screen x="0" y="0" width="1216" height="771" />
     </state>
-    <state x="184" y="0" key="CommitChangelistDialog2/0.0.1216.771@0.0.1216.771" timestamp="1585315990821" />
-    <state x="390" y="128" key="FileChooserDialogImpl" timestamp="1585315563436">
+    <state x="665" y="137" key="#xdebugger.evaluate/0.0.1216.771@0.0.1216.771" timestamp="1586333836591" />
+    <state x="184" y="0" key="CommitChangelistDialog2" timestamp="1585316046318">
       <screen x="0" y="0" width="1216" height="771" />
     </state>
-    <state x="390" y="128" key="FileChooserDialogImpl/0.0.1216.771@0.0.1216.771" timestamp="1585315563436" />
-    <state width="1173" height="288" key="GridCell.Tab.0.bottom" timestamp="1584948763929">
+    <state x="184" y="0" key="CommitChangelistDialog2/0.0.1216.771@0.0.1216.771" timestamp="1585316046318" />
+    <state x="390" y="128" key="FileChooserDialogImpl" timestamp="1586091085833">
       <screen x="0" y="0" width="1216" height="771" />
     </state>
-    <state width="1173" height="288" key="GridCell.Tab.0.bottom/0.0.1216.771@0.0.1216.771" timestamp="1584948763929" />
-    <state width="1173" height="288" key="GridCell.Tab.0.center" timestamp="1584948763929">
+    <state x="390" y="128" key="FileChooserDialogImpl/0.0.1216.771@0.0.1216.771" timestamp="1586091085833" />
+    <state width="1173" height="215" key="GridCell.Tab.0.bottom" timestamp="1586488023294">
       <screen x="0" y="0" width="1216" height="771" />
     </state>
-    <state width="1173" height="288" key="GridCell.Tab.0.center/0.0.1216.771@0.0.1216.771" timestamp="1584948763929" />
-    <state width="1173" height="288" key="GridCell.Tab.0.left" timestamp="1584948763929">
+    <state width="1173" height="215" key="GridCell.Tab.0.bottom/0.0.1216.771@0.0.1216.771" timestamp="1586488023294" />
+    <state width="1173" height="215" key="GridCell.Tab.0.center" timestamp="1586488023294">
       <screen x="0" y="0" width="1216" height="771" />
     </state>
-    <state width="1173" height="288" key="GridCell.Tab.0.left/0.0.1216.771@0.0.1216.771" timestamp="1584948763929" />
-    <state width="1173" height="288" key="GridCell.Tab.0.right" timestamp="1584948763929">
+    <state width="1173" height="215" key="GridCell.Tab.0.center/0.0.1216.771@0.0.1216.771" timestamp="1586488023294" />
+    <state width="1173" height="215" key="GridCell.Tab.0.left" timestamp="1586488023294">
       <screen x="0" y="0" width="1216" height="771" />
     </state>
-    <state width="1173" height="288" key="GridCell.Tab.0.right/0.0.1216.771@0.0.1216.771" timestamp="1584948763929" />
-    <state width="1173" height="240" key="GridCell.Tab.1.bottom" timestamp="1584947613550">
+    <state width="1173" height="215" key="GridCell.Tab.0.left/0.0.1216.771@0.0.1216.771" timestamp="1586488023294" />
+    <state width="1173" height="215" key="GridCell.Tab.0.right" timestamp="1586488023294">
       <screen x="0" y="0" width="1216" height="771" />
     </state>
-    <state width="1173" height="240" key="GridCell.Tab.1.bottom/0.0.1216.771@0.0.1216.771" timestamp="1584947613550" />
-    <state width="1173" height="240" key="GridCell.Tab.1.center" timestamp="1584947613550">
+    <state width="1173" height="215" key="GridCell.Tab.0.right/0.0.1216.771@0.0.1216.771" timestamp="1586488023294" />
+    <state width="1173" height="247" key="GridCell.Tab.1.bottom" timestamp="1586391221086">
       <screen x="0" y="0" width="1216" height="771" />
     </state>
-    <state width="1173" height="240" key="GridCell.Tab.1.center/0.0.1216.771@0.0.1216.771" timestamp="1584947613550" />
-    <state width="1173" height="240" key="GridCell.Tab.1.left" timestamp="1584947613550">
+    <state width="1173" height="247" key="GridCell.Tab.1.bottom/0.0.1216.771@0.0.1216.771" timestamp="1586391221086" />
+    <state width="1173" height="247" key="GridCell.Tab.1.center" timestamp="1586391221086">
       <screen x="0" y="0" width="1216" height="771" />
     </state>
-    <state width="1173" height="240" key="GridCell.Tab.1.left/0.0.1216.771@0.0.1216.771" timestamp="1584947613550" />
-    <state width="1173" height="240" key="GridCell.Tab.1.right" timestamp="1584947613550">
+    <state width="1173" height="247" key="GridCell.Tab.1.center/0.0.1216.771@0.0.1216.771" timestamp="1586391221086" />
+    <state width="1173" height="247" key="GridCell.Tab.1.left" timestamp="1586391221086">
       <screen x="0" y="0" width="1216" height="771" />
     </state>
-    <state width="1173" height="240" key="GridCell.Tab.1.right/0.0.1216.771@0.0.1216.771" timestamp="1584947613550" />
-    <state x="118" y="29" key="SettingsEditor" timestamp="1585315256579">
+    <state width="1173" height="247" key="GridCell.Tab.1.left/0.0.1216.771@0.0.1216.771" timestamp="1586391221086" />
+    <state width="1173" height="247" key="GridCell.Tab.1.right" timestamp="1586391221086">
       <screen x="0" y="0" width="1216" height="771" />
     </state>
-    <state x="118" y="29" key="SettingsEditor/0.0.1216.771@0.0.1216.771" timestamp="1585315256579" />
-    <state x="307" y="210" key="com.intellij.ide.util.TipDialog" timestamp="1585315233012">
+    <state width="1173" height="247" key="GridCell.Tab.1.right/0.0.1216.771@0.0.1216.771" timestamp="1586391221086" />
+    <state x="118" y="29" key="SettingsEditor" timestamp="1586489531561">
       <screen x="0" y="0" width="1216" height="771" />
     </state>
-    <state x="307" y="210" key="com.intellij.ide.util.TipDialog/0.0.1216.771@0.0.1216.771" timestamp="1585315233012" />
+    <state x="118" y="29" key="SettingsEditor/0.0.1216.771@0.0.1216.771" timestamp="1586489531561" />
+    <state x="202" y="119" key="Vcs.Push.Dialog.v2" timestamp="1585316135995">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state x="202" y="119" key="Vcs.Push.Dialog.v2/0.0.1216.771@0.0.1216.771" timestamp="1585316135995" />
+    <state x="307" y="210" key="com.intellij.ide.util.TipDialog" timestamp="1586479449065">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state x="307" y="210" key="com.intellij.ide.util.TipDialog/0.0.1216.771@0.0.1216.771" timestamp="1586479449065" />
+    <state x="0" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586487963105">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state x="0" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1216.771@0.0.1216.771" timestamp="1586487963105" />
+    <state x="420" y="303" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585713527439">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state x="420" y="303" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1216.771@0.0.1216.771" timestamp="1585713527439" />
+    <state x="266" y="174" key="run.anything.popup" timestamp="1585384659791">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state x="266" y="174" key="run.anything.popup/0.0.1216.771@0.0.1216.771" timestamp="1585384659791" />
+    <state x="271" y="92" width="672" height="678" key="search.everywhere.popup" timestamp="1585712240179">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state x="271" y="92" width="672" height="678" key="search.everywhere.popup/0.0.1216.771@0.0.1216.771" timestamp="1585712240179" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/search/avl_tree.cpp</url>
+          <line>86</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="array[index]" language="ObjectiveC" />
+        <watch expression="array[i]" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

@@ -52,7 +52,7 @@ int fibonacci_stk(int n) {
 }
 
 int main(int argc, char const *argv[]) {
-    int times = 20;
+    int times = 30;
     for (int i = 1; i < times; ++i) {
         printf("%d ", fibonacci_ruc(i));
     }

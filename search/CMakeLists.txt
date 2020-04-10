@@ -1,0 +1,2 @@
+add_executable(binary_search binary_search.cpp)
+add_executable(optimal_bst optimal_bst.cpp)
