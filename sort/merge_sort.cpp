@@ -8,7 +8,7 @@ void mergeSort(int *array, int begin, int end) {
     if (end - begin > 1) {
         mergeSort(array, begin, (begin + end) / 2);
         mergeSort(array, (begin + end) / 2, end);
-        auto temp = (int *) malloc((end - begin) * sizeof(int));
+        int *temp = (int *) malloc((end - begin) * sizeof(int));
         std::merge(array + begin, array + (begin + end) / 2, array + (begin + end) / 2, array + end, temp);
         memcpy(array + begin, temp, (end - begin) * sizeof(int));
         free(temp);

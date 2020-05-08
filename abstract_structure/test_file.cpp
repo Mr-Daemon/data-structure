@@ -4,8 +4,10 @@
 
 #include <iostream>
 #include "ArrayList.h"
+#include "Compressor.h"
 #include "huffman_tree.h"
 #include "AdjacencyWDigraph.h"
+
 
 int main(int argc, char const *argv[]) {
 //    int wList[5] = {2, 9, 7, 4, 1};
@@ -14,6 +16,12 @@ int main(int argc, char const *argv[]) {
 //    for (int k = 0; k < 9; ++k) {
 //        printf("%d ", tree[k].weight);
 //    }
-
-    return 0;
+    const char *path = "/home/cyb/test.txt";
+//    std::ifstream in;
+//    in.open(path, std::ios::in);
+//    char c;
+//    while ((c = in.get()) != EOF) {
+//        printf("%c,", c);
+//    }
+    Compressor::compress(path);
 }

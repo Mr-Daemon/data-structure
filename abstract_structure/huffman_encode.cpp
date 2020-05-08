@@ -181,7 +181,7 @@ Encoder *Encoder::decode(char *text, EncodeInfo *info) {
 
 //int main(int argc, char const *argv[]) {
 //    const char *test = "The 2-D arrays which are declared by the keyword int and able to store integer values are called two dimensional integer arrays. The process of assigning values during declaration is called initialization. TheseArrays can be initialized by putting the curly braces around each row separating by a comma also each element of a matrix should be separated by a comma.";
-//    printf("input text: %s\n", test);
+//    printf("input.txt text: %s\n", test);
 //    auto encoder = Encoder::encode(test);
 //    return 0;
 //}
