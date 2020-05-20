@@ -48,10 +48,11 @@ int main() {
     memset(reachList, 0, vertices * sizeof(bool));
     int origin = 14;
     int dest = 0;
-    int pass[] = {12,8};
-    int avoid[] = {5,10};
-    g.printPath(origin, dest, pass, sizeof(pass) / sizeof(int), avoid, sizeof(avoid) / sizeof(int), path,
-                 0, reachList);
+    int pass[] = {12, 8};
+    int avoid[] = {5, 10};
+//    g.printPath(origin, dest, pass, sizeof(pass) / sizeof(int), avoid, sizeof(avoid) / sizeof(int), path,
+//                 0, reachList);
+    std::cout << g.connect(0, 1);
 //    for (int j = 0; j < vertices; ++j) {
 //        if (path[j] == dest) {
 //            cout << path[j] << "\n";

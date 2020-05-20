@@ -62,11 +62,15 @@ public:
         @return  void
     */
     void addEdge(int s, int t, int w);
-
+    int getV();
+    bool connect(int origin, int dest);
+    void connect(int origin, bool *reachList);
     int searchPath(int origin, int dest, const int *pass, int n1, const int *avoid, int n2, int *path, int num,
                    bool *reachList);
     void printPath(int origin, int dest, const int *pass, int n1, const int *avoid, int n2, int *path, int num,
-                    bool *reachList);
+                   bool *reachList);
+    int *dijkstra();
+
     /**
      *  询问这张图的最小生成树(prim算法实现)
         @name int prim()

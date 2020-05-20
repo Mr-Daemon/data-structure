@@ -213,5 +213,44 @@ int Graph::kruskal(Edge *list) {
     return weight;
 }
 
+int Graph::getV() {
+    return max_v;
+}
+
+bool Graph::connect(int origin, int dest) {
+    bool reachList[max_v];
+    memset(reachList, 0, max_v * sizeof(bool));
+    connect(origin, reachList);
+    return reachList[dest];
+}
+
+void Graph::connect(int origin, bool *reachList) {
+    if (!reachList[origin]) {
+        reachList[origin] = true;
+        Node *node = graph[origin];
+        while (node) {
+            if (!reachList[node->v]) {
+                connect(node->v, reachList);
+            }
+            node = node->next;
+        }
+    }
+}
+
+int *Graph::dijkstra() {
+    int *result = new int[max_v + 1];
+    for (int i = 1; i < max_v; ++i) {
+        if (connect(0, i)) {
+            int placeHolder[max_v];
+            bool reachList[max_v];
+            memset(reachList, 0, max_v * sizeof(bool));
+            result[i + 1] = searchPath(0, i, nullptr, 0, nullptr, 0, placeHolder, 0, reachList);
+        } else {
+            result[i + 1] = -1;
+        }
+    }
+    return result;
+}
+
 
 
